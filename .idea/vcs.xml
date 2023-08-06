@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="" />
+    <mapping directory="$PROJECT_DIR$/AndroidPuzzleGame" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Calculate" vcs="" />
+    <mapping directory="$PROJECT_DIR$/RecycleViewAddRemove" vcs="" />
+    <mapping directory="$PROJECT_DIR$/RecycleViewDrag_Swipe" vcs="" />
+    <mapping directory="$PROJECT_DIR$/RecycleViewGridStorage" vcs="" />
+    <mapping directory="$PROJECT_DIR$/gamePuzzle" vcs="" />
+  </component>
+</project>
